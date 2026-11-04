@@ -1,41 +1,41 @@
 # Marcelo Mileris
 
-**Senior Full Stack Developer · Software Engineer**
+**Desenvolvedor Full Stack Sênior · Engenheiro de Software**
 
-I design and build reliable software, from backend architecture and APIs to modern web applications and integrations.
+Desenvolvo soluções de software de ponta a ponta, da arquitetura de back-end e APIs a aplicações web modernas e integrações.
 
-With 20+ years in software development, I focus on turning complex business needs into maintainable, scalable solutions.
+Com mais de 20 anos de experiência em desenvolvimento, meu foco é transformar necessidades complexas de negócio em sistemas confiáveis, escaláveis e fáceis de manter.
 
 ---
 
-## Focus
+## Áreas de atuação
 
-- Backend engineering and API design
-- Scalable application architecture
-- Multi-tenant SaaS platforms
-- System integrations and automation
-- AI-enabled applications
+- Engenharia de back-end e desenvolvimento de APIs
+- Arquitetura de aplicações e sistemas distribuídos
+- Plataformas SaaS multi-tenant
+- Integrações entre sistemas e automação de processos
+- Aplicações com inteligência artificial
 
-## Technologies
+## Tecnologias
 
-**Backend**  
+**Back-end**  
 Node.js · TypeScript · NestJS · PHP · Laravel · Yii2
 
-**Frontend**  
+**Front-end e mobile**  
 React · Next.js · React Native · Tailwind CSS
 
-**Data**  
+**Dados**  
 PostgreSQL · MySQL · MariaDB · MongoDB · SQL Server · Redis
 
-**Infrastructure & tooling**  
+**Infraestrutura e ferramentas**  
 Docker · AWS · Jenkins · Prisma · BullMQ
 
-## Engineering principles
+## Princípios de engenharia
 
-- Clear boundaries and maintainable code
-- Security and data isolation by design
-- Practical solutions over unnecessary complexity
-- Continuous learning and improvement
+- Código claro, organizado e sustentável
+- Segurança e isolamento de dados desde a arquitetura
+- Soluções práticas, sem complexidade desnecessária
+- Evolução contínua e aprendizado constante
 
 ---
 
